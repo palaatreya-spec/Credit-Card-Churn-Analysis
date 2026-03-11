@@ -309,6 +309,7 @@ B.Com Graduate | Aspiring Data Analyst
 Skills:  
 SQL | Python | Power BI | Excel | Data Visualization | Business Analytics
 
-LinkedIn:  https://www.linkedin.com/in/aatreya-pal-403ba8237
+LinkedIn:  [Aatreya Pal](https://www.linkedin.com/in/aatreya-pal-403ba8237)
+
 
 
