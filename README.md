@@ -240,31 +240,31 @@ Introduce loyalty programs for long-tenure customers.
 # 📁 Project Structure
 
 Credit-Card-Churn-Analysis
-│
-├── Dataset
-│ └── BankChurners.csv
-│
-├── Excel
-│ └── Excel_Analysis.xlsx
-│
-├── Python-EDA
-│ └── churn_analysis.ipynb
-│
-├── SQL
-│ ├── 01_database_setup.sql
-│ ├── 02_table_creation.sql
-│ ├── 03_data_verification.sql
-│ ├── 04_business_queries.sql
-│ └── SQL_Query_Documentation.md
-│
-├── PowerBI
-│ └── Credit-Card-Churn-Analysis-Dashboard.pbix
-│
-├── Screenshots
-│ ├── Customer-Churn-Dashboard-Executive-Overview.png
-│ └── Customer-Churn-Dashboard-Behavior-Analysis.png
-│
-└── README.md
+
+Dataset  
+ └ BankChurners.csv  
+
+Excel  
+ └ Excel_Analysis.xlsx  
+
+Python-EDA  
+ └ churn_analysis.ipynb  
+
+SQL  
+ ├ 01_database_setup.sql  
+ ├ 02_table_creation.sql  
+ ├ 03_data_verification.sql  
+ ├ 04_business_queries.sql  
+ └ SQL_Query_Documentation.md  
+
+PowerBI  
+ └ Credit-Card-Churn-Analysis-Dashboard.pbix  
+
+Screenshots  
+ ├ Customer-Churn-Dashboard-Executive-Overview.png  
+ └ Customer-Churn-Dashboard-Behavior-Analysis.png  
+
+README.md
 
 ---
 
@@ -310,4 +310,5 @@ Skills:
 SQL | Python | Power BI | Excel | Data Visualization | Business Analytics
 
 LinkedIn:  https://www.linkedin.com/in/aatreya-pal-403ba8237
+
 
